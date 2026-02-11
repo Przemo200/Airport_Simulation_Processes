@@ -100,3 +100,9 @@ A plane process follows these phases:
 ## Extras
 
 This project was developed for the Operating Systems course at **Wroclaw University of Science and Technology** and received a final grade of **5.0**. A detailed project report - in Polish - is also included in the repository as a PDF file.
+
+---
+## Author
+
+- **Author -** [Przemysław Dyjak](https://www.linkedin.com/in/przemys%C5%82aw-dyjak-666a11356/?trk=public-profile-join-page)
+
