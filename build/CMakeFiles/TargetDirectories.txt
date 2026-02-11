@@ -1,0 +1,4 @@
+/home/przemyslaw_dyjak/Pulpit/ProjektyCLion/ProcesyLotnisko/build/CMakeFiles/airport_main.dir
+/home/przemyslaw_dyjak/Pulpit/ProjektyCLion/ProcesyLotnisko/build/CMakeFiles/plane_main.dir
+/home/przemyslaw_dyjak/Pulpit/ProjektyCLion/ProcesyLotnisko/build/CMakeFiles/edit_cache.dir
+/home/przemyslaw_dyjak/Pulpit/ProjektyCLion/ProcesyLotnisko/build/CMakeFiles/rebuild_cache.dir

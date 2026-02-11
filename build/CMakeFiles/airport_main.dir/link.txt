@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/airport_main.dir/airport_main.cpp.o -o airport_main  -lcurses /usr/lib/x86_64-linux-gnu/libform.so -lrt 
