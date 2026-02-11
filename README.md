@@ -1,6 +1,6 @@
 # Airport simulation — based on multi-processes and IPC
 
-A Linux multi-process simulation of an airport that manages competing resources - runways, gates, ground crews, fuel trucks, de-icers - using **POSIX shared memory** and **POSIX semaphores** with a real-time **ncurses** dashboard
+A Linux multi-process simulation of an airport that manages competing resources - runways, gates, ground crews, fuel trucks and de-icers - using **POSIX shared memory** and **POSIX semaphores** with a real-time **ncurses** dashboard
 
 Each airplane is an **independent process** (`plane_main`), while the airport manager is a separate process (`airport_main`) responsible for initialization, UI, spawning planes, passenger terminal simulation and periodic fuel deliveries.
 
